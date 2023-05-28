@@ -1,0 +1,23 @@
+{
+    "name": "Money Mitan",
+    "short_name": "MoneyMitan",
+    "start_url": "www.moneymitan.tech/",
+    "theme_color": "#3367D6",
+    "background_color": "#3367D6",
+    "display" : "standalone",
+    
+    "icons": [
+      
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiObb6x5dH-pwTE8PaYP0vh7Qgn31qhGv7XVfepqZSxCOuhnLaiZT7rGHjtroQSncolkObPycJbVeKny6p_Oh2AALzOcsNzxBgoPNGO2CyMimHtXFq6vZhhTL-ek0gjljowbtw8Y5t3FUW2J3g7vwRU3PzjJlgm3x9gepRt3TE1kNFe_GXNsBWhYDo9/s1600/android-chrome-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6dOoqBPLf6AQ6EX_AilSS1B-CTK8p-LnVmX_0QCo729Mp1cxyLbXxNf4oOyLszZkOoPbNXHeMYeaSBRVYsK7RBx_aPTL1kMOoHQujkOEC2mj5hTriygNKKPoA9sK0Ifj9cQV5zZQ2PYq1HCAroBu5Y7aSsvvxPBtSTCrzj0AZjloovH2Hz9I1yLE/s320/android-chrome-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    
+  }
